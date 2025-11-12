@@ -63,7 +63,7 @@ To view the project, simply open the `youtube.html` file in your web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/YouTube-Home-Page-With-HTML-CSS.git
+   git clone https://github.com/FiyinfoluwaDav/YouTube-Home-Page-With-HTML-CSS.git
    ```
 2. Navigate to the project directory:
    ```bash
