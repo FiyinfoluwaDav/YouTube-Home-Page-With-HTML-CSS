@@ -73,7 +73,7 @@ To view the project, simply open the `youtube.html` file in your web browser.
 
 ## Screenshots
 
-*(You can add screenshots of your project here to showcase the final result.)*
+![Snapshot](snip.png)
 
 ## Contributing
 
